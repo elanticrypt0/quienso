@@ -1,0 +1,15 @@
+[package]
+name = "quienso"
+authors=["elanticrypt0"]
+repository = "https://github.com/elanticrypt0/quienso"
+version = "0.1.1"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+colored = "2.0.0"
+dns-lookup = "1.0.8"
+tokio = { version = "1.27.0", features = ["full"] }
+trust-dns-resolver = { version = "0.22.0", features = ["tokio", "tokio-rustls"] }
+whois-rust = { version = "1.5.1", features = ["tokio"] }

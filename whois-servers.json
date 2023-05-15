@@ -1,0 +1,28 @@
+{
+    "ar":       "whois.nic.ar",
+    "com":      "whois.verisign-grs.com",
+    "net":      "whois.verisign-grs.com",
+    "org":      "whois.pir.org",
+    "info":     "whois.afilias.net",
+    "biz":      "whois.nic.biz",
+    "me":       "whois.nic.me",
+    "io":       "whois.nic.io",
+    "co":       "whois.nic.co",
+    "uk":       "whois.nic.uk",
+    "au":       "whois.audns.net.au",
+    "ca":       "whois.cira.ca",
+    "cn":       "whois.cnnic.cn",
+    "de":       "whois.denic.de",
+    "fr":       "whois.nic.fr",
+    "it":       "whois.nic.it",
+    "jp":       "whois.jprs.jp",
+    "ru":       "whois.tcinet.ru",
+    "se":       "whois.iis.se",
+    "": "whois.ripe.net",
+    "_": {
+        "ip": {
+            "host": "whois.arin.net",
+            "query": "n + $addr\r\n"
+        }
+    }
+}

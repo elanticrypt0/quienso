@@ -1,0 +1,35 @@
+% La información a la que estás accediendo se provee exclusivamente para
+% fines relacionados con operaciones sobre nombres de dominios y DNS,
+% quedando absolutamente prohibido su uso para otros fines.
+%
+% La DIRECCIÓN NACIONAL DEL REGISTRO DE DOMINIOS DE INTERNET es depositaria
+% de la información que los usuarios declaran con la sola finalidad de
+% registrar nombres de dominio en ‘.ar’, para ser publicada en el sitio web
+% de NIC Argentina.
+%
+% La información personal que consta en la base de datos generada a partir
+% del sistema de registro de nombres de dominios se encuentra amparada por
+% la Ley N° 25326 “Protección de Datos Personales” y el Decreto
+% Reglamentario 1558/01.
+
+domain:		amepa.com.ar
+registrant:	27217069357
+registrar:	nicar
+registered:	2020-05-07 16:48:20.376414
+changed:	2022-05-03 10:32:01.221772
+expire:		2023-05-07 00:00:00
+
+contact:	27217069357
+name:		ORTELLI CELINA
+registrar:	nicar
+created:	2016-07-14 14:42:44.709281
+changed:	2023-04-03 12:20:20.190167
+
+nserver:	ns13.hostmar.com ()
+nserver:	ns14.hostmar.com ()
+nserver:	ns9.hostmar.com ()
+nserver:	ns10.hostmar.com ()
+registrar:	nicar
+created:	2020-05-11 10:48:17.044419
+
+
